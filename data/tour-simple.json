@@ -1,0 +1,43 @@
+[
+    {
+        "Name": "The Forrest KIller",
+        "Duration": 5,
+        "Max Group Size": 25,
+        "Difficulty": "easy",
+        "ratingAverage": 4.7,
+        "ratingQuality": 37,
+        "Price": 397
+    },
+    {
+        "Name": "The Forrest KIllerGump",
+        "Duration": 15,
+        "Max Group Size": 125,
+        "Difficulty": "easy,Hard",
+        "ratingAverage": 47.7,
+        "ratingQuality": 7737,
+        "Price": 39666
+    },
+    {
+        "id": null,
+        "Name": "Test Tour",
+        "Duration": 55,
+        "Max Group Size": 1562,
+        "Difficulty": "easy,Hard",
+        "ratingAverage": 55,
+        "ratingQuality": 756,
+        "Price": 39666
+    },
+    {
+        "id": 1,
+        "Name": "Test Tour2",
+        "Duration": 552,
+        "Max Group Size": 15622,
+        "Difficulty": "easy,Hard",
+        "ratingAverage": 552,
+        "ratingQuality": 7562,
+        "Price": 396662
+    },
+    {
+        "id": 2
+    }
+]
